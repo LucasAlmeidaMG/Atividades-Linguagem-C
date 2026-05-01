@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777479318 source:c:\users\lucas\onedrive\documentos\ciÊncia da computaÇÃo estudos\algoritmos e técnicas de programação - 14551\c - aulas youtube\jogododado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

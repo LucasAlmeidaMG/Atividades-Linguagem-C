@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777430229 source:c:\users\lucas\onedrive\Área de trabalho\ciÊncia da computaÇÃo estudos\algoritmos e técnicas de programação - 14551\c - aulas youtube\aula 15 funcoes parametros e retorno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

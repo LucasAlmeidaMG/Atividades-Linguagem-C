@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1777476620 source:c:\users\lucas\onedrive\documentos\ciÊncia da computaÇÃo estudos\algoritmos e técnicas de programação - 14551\c - aulas youtube\refazendo calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
